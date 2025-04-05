@@ -39,7 +39,8 @@
 
 - **Cloud & DevOps**:
 
-<p align="left"> <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="AWS EC2"/> <img src="https://img.shields.io/badge/AWS Elastic Beanstalk-569A31?style=for-the-badge&logo=awselasticbeanstalk&logoColor=white" alt="Elastic Beanstalk"/> <img src="https://img.shields.io/badge/AWS DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB"/> <img src="https://img.shields.io/badge/AWS CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" alt="CloudWatch"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="AWS EC2"/> <img src="https://img.shields.io/badge/AWS Elastic Beanstalk-569A31?style=for-the-badge&logo=awselasticbeanstalk&logoColor=white" alt="Elastic Beanstalk"/> <img src="https://img.shields.io/badge/AWS DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB"/> <img src="https://img.shields.io/badge/AWS CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" alt="CloudWatch"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
 - **Sistemas Operacionais**:
 
