@@ -51,7 +51,7 @@
 -----
 <div align="center">
   <h3>🌐 Conecte-se comigo</h3>
-  <a href="https://www.linkedin.com/in/lucasvolkmann/">
+  <a href="https://www.linkedin.com/in/lucas-volkmann">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
